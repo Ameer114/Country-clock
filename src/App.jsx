@@ -87,7 +87,7 @@ function App() {
  <>
  
  <div className='parent'>
-<h1 className='title'>Country Clock</h1>
+<h1 className='title'>WorldTick</h1>
 <div className='greet'>Hey &nbsp; <span className='name'> { name.toUpperCase()}</span> , &nbsp;
 <Typewriter
   options={{
