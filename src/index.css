@@ -33,7 +33,7 @@ body{
 .parent{
   padding: 10px;
   box-sizing: border-box;
-  margin: 20px 2px;
+  margin: 2px 2px 2px;
   width: 98vw;
   height: 94vh;
   background-color: rgb(255, 255, 255);
@@ -223,10 +223,18 @@ margin-top: 10px;
   .msg{
     right: 30vw;
   }
+  .foot{
+    font-size: 13px;
+  }
 
   .add p{
     right: 38%;
   }
+   .parent{
+    height: 85vh;
+  }
+  .container{
+    height: 70vh;}
 }
 
 @media screen and (max-width: 440px)  {
