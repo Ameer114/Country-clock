@@ -231,10 +231,10 @@ margin-top: 10px;
     right: 38%;
   }
    .parent{
-    height: 85vh;
+    height: 87vh;
   }
   .container{
-    height: 70vh;}
+    height: 72vh;}
 }
 
 @media screen and (max-width: 440px)  {
