@@ -204,9 +204,8 @@ body{
   transform: scale(0.9);
 }
 .foot{
-  position:absolute;
-  bottom:34px;
-  left: 40px;
+margin-top: 10px;
+  padding: 0;
 }
 
 @media screen and (max-width: 500px)  {
@@ -224,11 +223,7 @@ body{
   .msg{
     right: 30vw;
   }
-  .foot{
-    font-size: 13px;
-    left: 13px;
-    bottom: 40px;
-  }
+
   .add p{
     right: 38%;
   }
