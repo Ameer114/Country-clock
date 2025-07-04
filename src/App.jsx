@@ -119,12 +119,13 @@ function App() {
     ))}
  
 </div>
+   <Footer/>
  </div>
 
  { msg && <div className="msg">
   Clock has been Added!
  </div>}
-<Footer/>
+
  </>
   )
 }
